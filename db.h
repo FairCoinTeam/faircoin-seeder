@@ -16,7 +16,7 @@
 
 static inline int GetRequireHeight(const bool testnet = fTestNet)
 {
-    return testnet ? 0 : 94613;
+    return testnet ? 0 : 102079;
 }
 
 std::string static inline ToString(const CService &ip) {
